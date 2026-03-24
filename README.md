@@ -24,7 +24,7 @@ O conjunto de dados contém informações históricas sobre jogos eletrônicos, 
 - classificação ESRB
 - vendas na América do Norte, Europa, Japão e outras regiões
 
-Arquivo utilizado no projeto:
+O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `games.csv`
 
@@ -68,8 +68,9 @@ ice-video-game-sales-analysis/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── games.csv
-└── ice_video_game_sales_analysis.ipynb
+├── ice_video_game_sales_analysis.ipynb
+└── datasets/
+    └── games.csv
 ````
 
 ## Como executar
