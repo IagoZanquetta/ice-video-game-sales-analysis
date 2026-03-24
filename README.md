@@ -70,3 +70,59 @@ ice-video-game-sales-analysis/
 ├── requirements.txt
 ├── games.csv
 └── ice_video_game_sales_analysis.ipynb
+````
+
+## Como executar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/IagoZanquetta/ice-video-game-sales-analysis.git
+   ```
+
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd ice-video-game-sales-analysis
+   ```
+
+3. Instale as dependências:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Abra o arquivo `ice_video_game_sales_analysis.ipynb` no Jupyter Notebook, JupyterLab ou VS Code.
+
+5. Execute as células em ordem.
+
+## Principais Pontos Analisados
+
+Entre os principais focos da análise, estão:
+
+* concentração histórica de vendas por plataforma
+* ciclos de crescimento e declínio das plataformas
+* desempenho de gêneros em diferentes mercados
+* relação entre notas da crítica, notas de usuários e vendas
+* diferenças regionais no comportamento do consumidor
+* implicações estratégicas para futuros lançamentos
+
+## Resultados
+
+O notebook inclui:
+
+* limpeza e validação dos dados
+* análise exploratória com visualizações
+* comparação entre plataformas e gêneros
+* análise de perfis regionais de vendas
+* testes estatísticos
+* conclusões com foco em negócio
+
+## Conclusão
+
+Este projeto demonstra como análise exploratória de dados e testes estatísticos podem ser aplicados a dados históricos de vendas de videogames para revelar padrões de mercado e apoiar decisões estratégicas no varejo digital. Os resultados indicam que o sucesso comercial de um jogo depende de uma combinação de fatores, como timing da plataforma, apelo do gênero, desempenho em avaliações e diferenças de preferência entre regiões.
+
+## Autor
+
+**Iago Zanquetta**
+
