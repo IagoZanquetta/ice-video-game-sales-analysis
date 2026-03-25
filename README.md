@@ -28,6 +28,10 @@ O arquivo utilizado no projeto está organizado na pasta `datasets/`:
 
 - `games.csv`
 
+## Objetivo do Projeto
+
+Analisar dados históricos de vendas de videogames para identificar padrões relacionados ao sucesso comercial de jogos em diferentes plataformas, gêneros e regiões. Buscar apoio à tomada de decisão por meio da análise de variáveis como ano de lançamento, notas da crítica, notas dos usuários, classificação ESRB e comportamento regional de vendas.
+
 ## Objetivos da Análise
 
 Este projeto busca responder perguntas como:
@@ -122,6 +126,23 @@ O notebook inclui:
 ## Conclusão
 
 Este projeto demonstra como análise exploratória de dados e testes estatísticos podem ser aplicados a dados históricos de vendas de videogames para revelar padrões de mercado e apoiar decisões estratégicas no varejo digital. Os resultados indicam que o sucesso comercial de um jogo depende de uma combinação de fatores, como timing da plataforma, apelo do gênero, desempenho em avaliações e diferenças de preferência entre regiões.
+
+## O que foi aprendido
+
+Desenvolvimento e consolidação de habilidades em:
+- limpeza e preparação de dados reais
+- análise exploratória com foco em negócio
+- comparação de desempenho entre plataformas, gêneros e regiões
+- aplicação de testes estatísticos
+- interpretação de resultados para tomada de decisão
+
+## Melhorias Futuras
+
+Possibilidades de evolução do projeto:
+- incluir visualizações adicionais para comparação temporal
+- aprofundar a análise da relação entre avaliações e vendas
+- testar modelos preditivos para estimar potencial comercial de novos jogos
+- enriquecer a base com variáveis externas, como orçamento ou publisher
 
 ## Autor
 
