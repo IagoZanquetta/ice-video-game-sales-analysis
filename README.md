@@ -114,6 +114,8 @@ Entre os principais focos da análise, estão:
 
 ## Resultados
 
+Identificação de padrões relevantes de desempenho por plataforma e gênero, além de diferenças importantes entre mercados como América do Norte, Europa e Japão. Evidenciação da influência de fatores como ciclo de vida das plataformas e recepção crítica sobre o potencial comercial de um jogo. Geração de uma visão analítica útil para apoiar estratégias de posicionamento e planejamento de lançamentos.
+
 O notebook inclui:
 
 * limpeza e validação dos dados
